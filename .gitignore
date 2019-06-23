@@ -1,0 +1,8 @@
+*.ahk.ini
+*.aip
+*.bat
+*.exe
+
+dev/
+history/
+x86/
