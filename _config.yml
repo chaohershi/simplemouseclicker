@@ -1,0 +1,7 @@
+title: Simple Mouse Clicker
+description: A mouse auto clicker, for free!
+show_downloads: true
+google_analytics: UA-105337133-3
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-sitemap
