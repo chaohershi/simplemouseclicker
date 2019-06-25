@@ -9,8 +9,8 @@ Simple Mouse Clicker is a free software that can automate your mouse clicking.
 - No malware, no virus and no ads.
 
 ## Screenshots
-![Simple Mouse Clicker Screenshots 1](img/Simple_Mouse_Clicker_Screenshot_1.png)
-![Simple Mouse Clicker Screenshots 2](img/Simple_Mouse_Clicker_Screenshot_2.png)
+![Simple Mouse Clicker Screenshots 1](img/Simple_Mouse_Clicker_Screenshot_1.png)  
+![Simple Mouse Clicker Screenshots 2](img/Simple_Mouse_Clicker_Screenshot_2.png)  
 ![Simple Mouse Clicker Screenshots 3](img/Simple_Mouse_Clicker_Screenshot_3.png)
 
 ## Download
