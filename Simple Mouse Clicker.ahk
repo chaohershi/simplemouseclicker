@@ -5,7 +5,7 @@ SendMode Input
 SetWorkingDir %A_ScriptDir%
 
 ScriptName := "Simple Mouse Clicker"
-ScriptVersion := "1.1.0.0"
+ScriptVersion := "1.1.1.0"
 CopyrightNotice := "Copyright (c) 2019 Chaohe Shi"
 
 ConfigDir := A_AppData . "\" . ScriptName
@@ -39,8 +39,8 @@ IniRead, MilliSeconds, %ConfigFile%, ClickInterval, MilliSeconds, 0
 IniRead, MouseButton, %ConfigFile%, MouseAction, MouseButton, 1
 IniRead, ClickAction, %ConfigFile%, MouseAction, ClickAction, 1
 
-IniRead, HotkeyStart, %ConfigFile%, HotKey, HotkeyStart, F5
-IniRead, HotkeyStop, %ConfigFile%, HotKey, HotkeyStop, F6
+IniRead, HotkeyStart, %ConfigFile%, HotKey, HotkeyStart, F9
+IniRead, HotkeyStop, %ConfigFile%, HotKey, HotkeyStop, F10
 
 CurrentHotkeyStart := HotkeyStart
 CurrentHotkeyStop := HotkeyStop
